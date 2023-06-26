@@ -1,0 +1,10 @@
+﻿raum_h50_saal@zhref.ch;H50 Saal
+raum_h50_kleiner_saa@zhref.ch;H50 Kleiner Saal
+raum_h50_seminarrau1@zhref.ch;H50 Seminarraum 1
+raum_h50_seminarrau2@zhref.ch;H50 Seminarraum 2
+raum_h50_sousol@zhref.ch;H50 Soussol
+raum_h7_dachraum@zhref.ch;H7 Dachraum
+raum_h7_foyer@zhref.ch;H7 Foyer
+raum_h7_saal@zhref.ch;H7 Saal
+raum_h7_sitzungsraum@zhref.ch;H7 Sitzungszimmer 1.OG
+raum_b10_sitzungsrau@zhref.ch;B10 Sitzungsraum 1.OG
